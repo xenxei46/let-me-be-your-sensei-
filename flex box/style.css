@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(226, 12, 12);
+}
+
+.Main-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;   
+ } 
+ 
+.sub-container {
+        display: flex;
+        background-color: rgb(20, 114, 202);
+        height: 200px; width: 300px;
+        margin: 10px;
+        margin-top: 200px;
+        align-items: center;
+        justify-content: center;
+
+ }
